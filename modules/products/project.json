@@ -4,7 +4,7 @@
   "sourceRoot": "modules/products/src",
   "prefix": "lib",
   "projectType": "library",
-  "tags": ["type: feature", "scope: products"],
+  "tags": ["type:feature", "scope:products"],
   "targets": {
     "test": {
       "executor": "@nx/jest:jest",
